@@ -73,7 +73,7 @@ Start numbering with offset:
 
 ## Code
 
-Inline `code`
+Inline `code` and `code like stuff`
 
 Indented code
 
@@ -81,6 +81,24 @@ Indented code
     line 1 of code
     line 2 of code
     line 3 of code
+
+
+    // is this a code block
+    see this?
+    and this?
+    <h3 class="contact-form__heading">Contact us</h3>
+                <p class="contact-form__name">
+                    <label>Your Name: </label><br><input type="text" name="name" placeholder="Name" required autofocus/>  
+                </p>
+                <p class="contact-form__email">
+                    <label>Your Email: </label><br><input type="email" name="email" placeholder="Email" required/>
+                </p>
+                <p class="contact-form__role">
+                    <label>Your Role: </label><br><select name="role[]" placeholder="Select from list">
+                        <option value="leader">Leader</option>
+                        <option value="follower">Follower</option>
+                    </select>
+                </p>
 
 Block code "fences"
 
