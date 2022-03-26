@@ -39,7 +39,7 @@ _This is italic text_
 
 ## Blockquotes
 
-> Blockquotes can also be nested...
+> ~Blockquotes~ can also be nested...
 >
 > > ...by using additional greater-than signs right next to each other...
 > >
@@ -82,8 +82,7 @@ Indented code
     line 2 of code
     line 3 of code
 
-
-    // is this a code block
+    is this a code block
     see this?
     and this?
     <h3 class="contact-form__heading">Contact us</h3>
